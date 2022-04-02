@@ -1,0 +1,3 @@
+/home/fy/Desktop/SJTU/2021-2022-Spring_SJTU-IS_Homework/IS206/IS206/lab1/src/build/CMakeFiles/rebuild_cache.dir
+/home/fy/Desktop/SJTU/2021-2022-Spring_SJTU-IS_Homework/IS206/IS206/lab1/src/build/CMakeFiles/edit_cache.dir
+/home/fy/Desktop/SJTU/2021-2022-Spring_SJTU-IS_Homework/IS206/IS206/lab1/src/build/CMakeFiles/os-lab1.dir

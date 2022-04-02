@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/lab1.dir/memory_manage.c.o -o lab1 

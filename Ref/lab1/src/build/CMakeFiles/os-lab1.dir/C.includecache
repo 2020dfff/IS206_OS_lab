@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fy/Desktop/SJTU/2021-2022-Spring_SJTU-IS_Homework/IS206/IS206/lab1/src/main.c
+stdio.h
+-
+stdlib.h
+-
+

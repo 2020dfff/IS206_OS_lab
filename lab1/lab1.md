@@ -577,11 +577,9 @@ void lmalloc(Manage *mem_manager, unsigned long size)
 
 ### 九、附录
 
-manage_memory.c源码：
+manage_memory.c源码：[IS206_OS_lab/memory_manage.c at master · 2020dfff/IS206_OS_lab (github.com)](https://github.com/2020dfff/IS206_OS_lab/blob/master/lab1/memory_manage.c)
 
-输入目录：
-
-输出目录：
+测试输入附录：[IS206_OS_lab/lab1/build/input at master · 2020dfff/IS206_OS_lab (github.com)](https://github.com/2020dfff/IS206_OS_lab/tree/master/lab1/build/input)
 
 
 
@@ -589,7 +587,7 @@ manage_memory.c源码：
 
 > Author：费扬
 >
-> Github：
+> Github：[2020dfff/IS206_OS_lab: Repo for SJTU_IS206 Operating System Course Design. (github.com)](https://github.com/2020dfff/IS206_OS_lab)
 >
 > Date：2022-04-01
 

@@ -299,8 +299,7 @@ void lmalloc(Manage *mem_manager, unsigned long size)
 
   6. 如果等于当前起始指针，直接报错；
 
-
-  		**代码展示：有点长，在此省略，可见源码**
+​		**代码展示**：有点长，在此省略，可见源码。
 
 
 
@@ -580,8 +579,6 @@ void lmalloc(Manage *mem_manager, unsigned long size)
 manage_memory.c源码：[IS206_OS_lab/memory_manage.c at master · 2020dfff/IS206_OS_lab (github.com)](https://github.com/2020dfff/IS206_OS_lab/blob/master/lab1/memory_manage.c)
 
 测试输入附录：[IS206_OS_lab/lab1/build/input at master · 2020dfff/IS206_OS_lab (github.com)](https://github.com/2020dfff/IS206_OS_lab/tree/master/lab1/build/input)
-
-
 
 ***
 
